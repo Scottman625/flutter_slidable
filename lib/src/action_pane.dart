@@ -1,6 +1,6 @@
 part of 'slidable.dart';
 
-const _defaultExtentRatio = 0.35;
+const _defaultExtentRatio = 0.42;
 
 /// Data of the ambient [ActionPane] accessible from its children.
 @immutable
